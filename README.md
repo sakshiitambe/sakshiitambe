@@ -27,4 +27,4 @@
 ---
 
 ### 🔗 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/feed/))]
+https://www.linkedin.com/in/sakshi-tambe-940400375/
